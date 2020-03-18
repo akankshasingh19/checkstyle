@@ -1380,7 +1380,6 @@
               <validating>true</validating>
               <dir>src/main/resources</dir>
               <includes>
-                <include>google_checks.xml</include>
                 <include>sun_checks.xml</include>
               </includes>
             </validationSet>
